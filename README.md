@@ -22,3 +22,6 @@ Instalation:
 
 
 7: gerez vos lieu et evenements.
+
+
+MERCI
